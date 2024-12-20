@@ -31,6 +31,7 @@ cd AWING_Assignment
 
 #### 3. Navigate to the backend Data project directory:
 ```bash
+cd ..
 cd AWING_Assignment_Data
 ```
 
