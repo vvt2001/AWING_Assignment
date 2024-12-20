@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWING_Assignment_API", "AWING_Assignment\AWING_Assignment_API.csproj", "{F3AA0976-FC14-48DC-8262-6E05074F8ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWING_Assignment_Data", "AWING_Assignment_Data\AWING_Assignment_Data.csproj", "{C09FD13D-1502-481F-AD6A-B571DD357951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AA0976-FC14-48DC-8262-6E05074F8ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AA0976-FC14-48DC-8262-6E05074F8ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AA0976-FC14-48DC-8262-6E05074F8ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AA0976-FC14-48DC-8262-6E05074F8ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09FD13D-1502-481F-AD6A-B571DD357951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09FD13D-1502-481F-AD6A-B571DD357951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09FD13D-1502-481F-AD6A-B571DD357951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09FD13D-1502-481F-AD6A-B571DD357951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B6BA00-B32E-4904-AB19-7F626D598F6E}
+	EndGlobalSection
+EndGlobal

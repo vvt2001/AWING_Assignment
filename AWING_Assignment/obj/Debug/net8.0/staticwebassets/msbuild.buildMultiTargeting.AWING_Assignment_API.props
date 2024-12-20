@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AWING_Assignment_API.props" />
+</Project>

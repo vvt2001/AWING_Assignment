@@ -1,0 +1,28 @@
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.csproj.AssemblyReference.cache
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.AssemblyInfo.cs
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.deps.json
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.runtimeconfig.json
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.pdb
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\refint\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.pdb
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.genruntimeconfig.cache
+C:\Users\AD\source\repos\AWING_Assignment\AWING_Assignment_Data\obj\Debug\net8.0\ref\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.deps.json
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.runtimeconfig.json
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\bin\Debug\net8.0\AWING_Assignment_Data.pdb
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.csproj.AssemblyReference.cache
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.AssemblyInfo.cs
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\refint\AWING_Assignment_Data.dll
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.pdb
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\AWING_Assignment_Data.genruntimeconfig.cache
+C:\Users\AD\source\repos\AWING_Assignment - Copy\AWING_Assignment_Data\obj\Debug\net8.0\ref\AWING_Assignment_Data.dll

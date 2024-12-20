@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AA0976-FC14-48DC-8262-6E05074F8ABB}|AWING_Assignment\\AWING_Assignment_API.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment\\controllers\\piratenavigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AA0976-FC14-48DC-8262-6E05074F8ABB}|AWING_Assignment\\AWING_Assignment_API.csproj|solutionrelative:awing_assignment\\controllers\\piratenavigationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AA0976-FC14-48DC-8262-6E05074F8ABB}|AWING_Assignment\\AWING_Assignment_API.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment\\services\\piratenavigationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AA0976-FC14-48DC-8262-6E05074F8ABB}|AWING_Assignment\\AWING_Assignment_API.csproj|solutionrelative:awing_assignment\\services\\piratenavigationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment_data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|solutionrelative:awing_assignment_data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment_data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|solutionrelative:awing_assignment_data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment_data\\model\\inputhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|solutionrelative:awing_assignment_data\\model\\inputhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment_data\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09FD13D-1502-481F-AD6A-B571DD357951}|AWING_Assignment_Data\\AWING_Assignment_Data.csproj|solutionrelative:awing_assignment_data\\model\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AA0976-FC14-48DC-8262-6E05074F8ABB}|AWING_Assignment\\AWING_Assignment_API.csproj|c:\\users\\ad\\source\\repos\\awing_assignment - copy\\awing_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3AA0976-FC14-48DC-8262-6E05074F8ABB}|AWING_Assignment\\AWING_Assignment_API.csproj|solutionrelative:awing_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PirateNavigationController.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment\\Controllers\\PirateNavigationController.cs",
+              "RelativeDocumentMoniker": "AWING_Assignment\\Controllers\\PirateNavigationController.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment\\Controllers\\PirateNavigationController.cs",
+              "RelativeToolTip": "AWING_Assignment\\Controllers\\PirateNavigationController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:41:30.824Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PirateNavigationServices.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment\\Services\\PirateNavigationServices.cs",
+              "RelativeDocumentMoniker": "AWING_Assignment\\Services\\PirateNavigationServices.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment\\Services\\PirateNavigationServices.cs",
+              "RelativeToolTip": "AWING_Assignment\\Services\\PirateNavigationServices.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:41:30.242Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "AWING_Assignment_Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\DatabaseContext.cs",
+              "RelativeToolTip": "AWING_Assignment_Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:36:18.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "AWING_Assignment_Data\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\DbContextFactory.cs",
+              "RelativeToolTip": "AWING_Assignment_Data\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:36:17.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "AWING_Assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment\\appsettings.json",
+              "RelativeToolTip": "AWING_Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T13:36:02.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\Model\\Entity.cs",
+              "RelativeDocumentMoniker": "AWING_Assignment_Data\\Model\\Entity.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\Model\\Entity.cs",
+              "RelativeToolTip": "AWING_Assignment_Data\\Model\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:49:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputHistory.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\Model\\InputHistory.cs",
+              "RelativeDocumentMoniker": "AWING_Assignment_Data\\Model\\InputHistory.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\AWING_Assignment - Copy\\AWING_Assignment_Data\\Model\\InputHistory.cs",
+              "RelativeToolTip": "AWING_Assignment_Data\\Model\\InputHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:43:52.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
