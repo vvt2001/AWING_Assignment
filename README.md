@@ -25,7 +25,7 @@ cd AWING_Assignment
 #### 2. Update the database connection string in appsettings.json:
 ```json
 "ConnectionStrings": {
-    "DefaultConnection": "Server=your-server;Database=your-database;User Id=your-user;Password=your-password;"
+    "DefaultConnection": "Server=your-server;Database=your-database;User Id=your-user;Password=your-password;Trusted_Connection=False;Encrypt=True;TrustServerCertificate=True;"
 }
 ```
 
